@@ -1,0 +1,57 @@
+body {
+    background-image: url(../images/background.jpg);
+}
+
+.header {
+    text-align: center;
+    border: solid;
+    border-color: white;
+    font-size: 45px;
+    color: red;
+}
+
+.main {
+    color: red;
+    font-size: 20px;
+    background-color: white;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.winsLosses{
+    font-size: 40px;
+    color: red;
+}
+
+.crystals {
+    float: left;
+}
+
+#button1 {
+    width: 20.5%;
+    height: auto;
+}
+
+#button2 {
+    width: 17%;
+    height: auto;
+}
+
+#button3 {
+        width: 22%;
+        height: auto;
+    }
+    
+#button4 {
+        width: 23%;
+        height: auto;
+}
+
+.userScore {
+    clear: both;
+    margin-top: 40px;
+    font-size: 50px;
+    padding-top: 40px;
+    color: red;
+      
+}
